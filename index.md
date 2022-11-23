@@ -1,21 +1,21 @@
 ---
 layout: cv
-title: NicholasYe's CV
+title: HaoPeng's CV
 email:
-  url: mailto:tye2024@gmail.com
-  text: tye2024@gmail.com
+  url: mailto:haopeng020120@gmail.com
+  text: haopeng020120@gmail.com
 homepage:
-  url: https://nicholasye.github.io/
-  text: nicholasye
+  url: https://phcarry666.top/about/
+  text: HaoPeng
 phone: 
-  url: tel:18170937125
-  text: 18170937125
+  url: tel:13755751529
+  text: 13755751529
 place:
-  url: https://www.google.com/maps/place/Huazhong+University+of+Science+and+Technology/@30.5130089,114.4180869,17z/
-  text: HUST, Wuhan, China
+  url: https://www.google.com/maps/place/%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8E%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2/@22.8376,108.289839,17z/data=!3m1!4b1!4m5!3m4!1s0x36b3ef08beffbe8f:0x564e5609d850ead6!8m2!3d22.8376!4d108.289839
+  text: GXU, Nanning, China
 ---
 
-# Tingzhen Ye
+# Hao Peng
 .
 
 <!--
@@ -30,89 +30,74 @@ Supported arguments:
 
 ## Education
 
-### **Huazhong University of Science and Technology** `Wuhan, China`
+### **Guangxi University ** `Nanning, China`
 
 ```
 Sep.2020 - Present
 ```
 
-B.S. in Electrical Engineering and Automation
-- Relevant Coursework: Circuit Theory(I)&(II); Analog Electronic Technology; Fundamentals of Computer Programming(C++); Linear Algebra; Database technology and its application; Physics(I)&(II).
+B.S. in Computer Science and Technology
+- Relevant Coursework:  Fundamentals of Computer Programming(C); Object-Oriented Programming(Java); Operating System; Database technology and its application; Discrete Mathematics .
 
-## Professional Experiences
+Language:
 
-### **1. Software Develop Intern at [Covariant.AI](https://covariant.ai/)** `June.2022 - Aug.2022`
+- English: CET-6 Grade 497
+- German: B1
 
-- Investigate the impact of the distance between top scanner and tote, analyze data by python script.
-- Import and adjust code library dependency in main project from other library repository.
-- Test photoelectric sensor reliability using python script and modbus service with PLC.
-- Control, adjust the robot arm and using docker to start robot service.
-- Technical skill: Python, Git, Docker, Tmux
+## Experiences
 
-## Competition Experiences
+### 1. Database Course Training  `July.2022 - Aug.2021`
 
-### **1. *KEENON* Robot Innovation Competition** `Jun.2021 - Dec.2021`
-A competition designing a remote car for collecting bottles or rubbish with real time monitoring and controlling system.
+Course introduction：
 
-- _**First-Grade Award (3 out of 100), Core Member**_<br>
-- Programming robot CV algorithm to identify the objects through OpenCV.
-- Developing Linux environment and invoking OpenCV library on Raspberry Board.
-- Designing expansion board with the aim of making use of all IO pin.
-- Technical skill: Python, C++, Linux, Altium Designer
+A course to complete the training task by a team of two: Small supermarket management system
 
-### **2. *MINDRAY* Robot Fighting Competition** `Dec.2020 - Apr.2021`
-A competition requires designing an autonomous robot car, the robot needs to detect other robots and push them out of the ring area. 
+- Follow the software development process completely
+- The software needs to unify users, administrator and console through several text files.
+- Using python completely.
 
-- _**Outstanding Winner Award (1 out of 24), Core Member**_<br>
-- Programming the robot control algorithm with environment perception and strategic decisions through peripheral sensors.
-- Designing the electrical power supply system to different modules with different voltage.
-- Technical skill: C++, Python
+### 2.TUBSU_Online_2022_Syllabus_Term_2_Introduction_to_Python_Programming `July.2022 - Aug.2021 `
 
-## Academic Experiences
+Course introduction：
 
-### **1. Wireless charging device of electric vehicles with SiC MOSFET** `Apr.2021 - Apr.2022`
-A power electric project using boostPFC, LCC-LCC electric structure and SiC MOSFET aiming at charging electrical car wirelessly.
+Python learning and learn to use basic data analysis modules and practice in applications.
 
-- _**Honorable award (Province competition)**_<br>
-- Programming microcontroller to generate PWM and SPWM waves to drive SiC MOSFET at a high frequency.
-- Implement a wireless communication module into the STM32F407 microcontroller.
-- Technical skill: C, Stm32
+- Grade :1.3(German grade)/Very Good(English description)
 
-### **2. Adaptive Active Damper Model** `Oct.2021 - Mar.2022`
-Modeling an adaptive active damper to improve the stability of grid-connected inverter under weak grid.
 
-- Modeling electrical circuit and designing control algorithm.
-- Adjusting some electrical parameter into order to stabilize the background harmonics.
-- Technical skill: Simulink, Matlab
 
-## Other Experiences
+### 3.  Django Web Development and Maintenance In [KONGGU CAMPUS MEDIA](https://konggu.gxu.edu.cn/) `June.2021 - Present `
 
-### **1. Patent of Portable Breathe Assisting Apparatus (Pending)** `Sep.2021 - Jan.2022`
-A breathe assisting apparatus which provides oxygen to patients and suctions of patients.
+- Use the django framework to develop a web page for Konggu Campus Media.
+- Test and launch this Web.
+- Update and release of special topics.
+- Maintenance of the web.
+- Technical skill: Python, Django, HTML, CSS, Javascript, Git, Markdown, Server
 
-- Designing the electrical structure such as electricity supply system and its PCB board.
-- Modeling whole structure of the apparatus through Autodesk Inventor.
+### 4. Multi-view 3D intelligent imaging measurement system based on mobile terminal`Dec.2020 - Present `
+
+- The Program is for College Student's innovation and Entrepreneurship Competition, my team still work for this. We hope to finish by senior year. 
+- I'm a member of this group and I'm mainly responsible for the mobile terminal.
+- Technical skill: Java, Algorithm, Android
+
+### 
 
 ## Honors & Awards
 
 ```
-Apr.2022
-May.2021
-Sep.2021
-Sep.2021
+Oct.2021
+Dec.2021
 ```
 
-- The American Mathematical Contest in Modeling, Meritorious Price(<10%)
-- Scholarship for Sieyuan Outstanding Students, EEE, Rank11(11/420)
-- Scholarship for Scientific and Technological Innovation, HUST
-- Summer Social Practices Team, HUST, First-Grade Award
+- China Undergraduate Mathematical Contest in Modelling, The Second Province Award
+- Dongxin Programming Contest, The Second-Grade Award
 
 ## Technical Skills
 
-- Programming: Python(Proficient); Matlab(Skilled); C/C++(Basic); Linux(Experienced)
-- Microcontroller: Arduino(Proficient); Stm32(Skilled)
-- Electrical: Altium Designer(Proficient); Simulink(Proficient); Inventor(Basic)
-- Tools: Markdown(Proficient); Github/Git(Proficient)
+- Programming: Python(Proficient); C++(Skilled); C/Java(Basic); Go(Understand)
+- Web/MINA: Django(Proficient); SSM(Skilled); Mini-App develop(Basic)
+- Database: Mysql(Basic), Sql server(Basic)
+- Tools: Markdown(Skilled); Latex(Skilled); Github/Git(Skilled)
 
 <!-- ### Footer
 

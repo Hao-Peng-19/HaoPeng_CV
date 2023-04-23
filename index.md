@@ -81,6 +81,13 @@ Python learning and learn to use basic data analysis modules and practice in app
 - I'm a member of this group and I'm mainly responsible for the mobile terminal.
 - Technical skill: Java, Algorithm, Android
 
+### 5. Principles of Artificial Intelligence (Bilingual)`Sep.2022 - Dec.2022 `
+
+- This course is about introductory fundamentals of Artificial intelligence.
+- mainly about search problem(DFS, BFS, UCS …), bayesian neural networks, MDP and some basic knowledge
+- Technical skill: Python, Algorithm
+- Grade: 92/100
+
 ## Honors & Awards
 
 ```
@@ -97,6 +104,7 @@ Dec.2021
 - Web/MINA: Django(Proficient); SSM(Skilled); Mini-App develop(Basic)
 - Database: Mysql(Basic), Sql server(Basic)
 - Tools: Markdown(Skilled); Latex(Skilled); Github/Git(Skilled)
+- AI: Pytorch(basic), tensorflow(understand)
 
 <!-- ### Footer
 

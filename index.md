@@ -49,7 +49,12 @@ Oct.2024 - Present
 
 ## Experiences
 
-### **1. Database Course Training  `July.2022 - Aug.2021`**
+### **1. Internship in nstitute of Automation, Chinese Academy of Sciences  `Jul. 23 – Oct. 23`**
+* Digital image processing (measurement of object size, lane detection)
+* Fundamentals of Deep Learning (Mnist data set, neural networks)
+* Weed detection in paddies and cornfields
+
+### **2. Database Course Training  `Jul.2022 - Aug.2021`**
 
 Course introduction：
 
@@ -59,7 +64,7 @@ A course to complete the training task by a team of two: Small supermarket manag
 - The software needs to unify users, administrator and console through several text files.
 - Using python completely.
 
-### **2.TUBSU_Online_2022_Syllabus_Term_2_Introduction_to_Python_Programming `July.2022 - Aug.2021 `**
+### **3.TUBSU_Online_2022_Syllabus_Term_2_Introduction_to_Python_Programming `Jul.2022 - Aug.2021 `**
 
 Course introduction：
 
@@ -69,7 +74,7 @@ Python learning and learn to use basic data analysis modules and practice in app
 
 
 
-### **3.  Django Web Development and Maintenance In [KONGGU CAMPUS MEDIA](https://konggu.gxu.edu.cn/) `June.2021 - June.2023 `**
+### **4.  Django Web Development and Maintenance In [KONGGU CAMPUS MEDIA](https://konggu.gxu.edu.cn/) `Jun.2021 - Jun.2023 `**
 
 - Use the django framework to develop a web page for Konggu Campus Media.
 - Test and launch this Web.
@@ -77,13 +82,13 @@ Python learning and learn to use basic data analysis modules and practice in app
 - Maintenance of the web.
 - Technical skill: Python, Django, HTML, CSS, Javascript, Git, Markdown, Server
 
-### **4. Multi-view 3D intelligent imaging measurement system based on mobile terminal`Dec.2020 - June.2023 `**
+### **5. Multi-view 3D intelligent imaging measurement system based on mobile terminal`Dec.2020 - Jun.2023 `**
 
 - The Program is for College Student's innovation and Entrepreneurship Competition, my team still work for this. We hope to finish by senior year. 
 - I'm a member of this group and I'm mainly responsible for the mobile terminal.
 - Technical skill: Java, Algorithm, Android
 
-### **5. Principles of Artificial Intelligence (Bilingual)`Sep.2022 - Dec.2022 `**
+### **6. Principles of Artificial Intelligence (Bilingual)`Sep.2022 - Dec.2022 `**
 
 - This course is about introductory fundamentals of Artificial intelligence.
 - mainly about search problem(DFS, BFS, UCS …), bayesian neural networks, MDP and some basic knowledge

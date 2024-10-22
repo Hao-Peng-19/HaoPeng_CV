@@ -30,7 +30,7 @@ Supported arguments:
 
 ## Education
 
-### Technische Universität Darmstadt  `Darmstadt, German`
+### **Technische Universität Darmstadt  `Darmstadt, German`**
 
 ```
 Oct.2024 - Present
@@ -42,7 +42,7 @@ Degree: Master of science
 
 
 
-### Guangxi University  `Nanning, China`
+### **Guangxi University  `Nanning, China`**
 
 ```
 Sep.2020 - Jun.2024

@@ -35,12 +35,24 @@ Supported arguments:
 ```
 Oct.2024 - Present
 ```
+Major: Computer Science
 
-**B.S. in Computer Science and Technology**
+Degree: Master of science
+
+
+
+
+### Guangxi University  `Nanning, China`
+
+```
+Sep.2020 - Jun.2024
+```
+Major: Computer Science and Technology 
+
+Degree: Bachelor of Engineering
 
 - Relevant Coursework:  Fundamentals of Computer Programming(C); Object-Oriented Programming(Java); Operating System; Database technology and its application; Discrete Mathematics .
-- dissertation for bachelor's degree:  Rice field weeds based on in-depth learning
-  Detection (Detection of weeds and comparison of results mainly using the YOLO model)
+- dissertation for bachelor's degree:  Rice field weeds based on in-depth learning Detection (Detection of weeds and comparison of results mainly using the YOLO model)
 
 **Language:**
 

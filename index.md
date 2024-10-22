@@ -30,19 +30,21 @@ Supported arguments:
 
 ## Education
 
-### Guangxi University  `Nanning, China`
+### Technische Universität Darmstadt  `Darmstadt, German`
 
 ```
-Sep.2020 - Present
+Oct.2024 - Present
 ```
 
 **B.S. in Computer Science and Technology**
 
 - Relevant Coursework:  Fundamentals of Computer Programming(C); Object-Oriented Programming(Java); Operating System; Database technology and its application; Discrete Mathematics .
+- dissertation for bachelor's degree:  Rice field weeds based on in-depth learning
+  Detection (Detection of weeds and comparison of results mainly using the YOLO model)
 
 **Language:**
 
-- English: CET-6 Grade 497
+- English: IELTS: 7.0
 - German: B1
 
 ## Experiences
@@ -67,7 +69,7 @@ Python learning and learn to use basic data analysis modules and practice in app
 
 
 
-### **3.  Django Web Development and Maintenance In [KONGGU CAMPUS MEDIA](https://konggu.gxu.edu.cn/) `June.2021 - Present `**
+### **3.  Django Web Development and Maintenance In [KONGGU CAMPUS MEDIA](https://konggu.gxu.edu.cn/) `June.2021 - June.2023 `**
 
 - Use the django framework to develop a web page for Konggu Campus Media.
 - Test and launch this Web.
@@ -75,7 +77,7 @@ Python learning and learn to use basic data analysis modules and practice in app
 - Maintenance of the web.
 - Technical skill: Python, Django, HTML, CSS, Javascript, Git, Markdown, Server
 
-### **4. Multi-view 3D intelligent imaging measurement system based on mobile terminal`Dec.2020 - Present `**
+### **4. Multi-view 3D intelligent imaging measurement system based on mobile terminal`Dec.2020 - June.2023 `**
 
 - The Program is for College Student's innovation and Entrepreneurship Competition, my team still work for this. We hope to finish by senior year. 
 - I'm a member of this group and I'm mainly responsible for the mobile terminal.
@@ -101,10 +103,10 @@ Dec.2021
 ## Technical Skills
 
 - Programming: Python(Proficient); C++(Skilled); C/Java(Basic); Go(Understand)
-- Web/MINA: Django(Proficient); SSM(Skilled); Mini-App develop(Basic)
+- Web/MINAPP: Django(Proficient); SSM(Skilled); Mini-App develop(Basic)
 - Database: Mysql(Basic), Sql server(Basic)
 - Tools: Markdown(Skilled); Latex(Skilled); Github/Git(Skilled)
-- AI: Pytorch(basic), tensorflow(understand)
+- AI: Pytorch(basic), YOLO(Basic), tensorflow(understand),
 
 <!-- ### Footer
 

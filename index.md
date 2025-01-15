@@ -39,7 +39,6 @@ Major: Computer Science
 
 Degree: Master of science. 
 
-- Project Lab Multimodal Artificial Intelligence: Currently in progress with Image-region to Audio
 
 
 

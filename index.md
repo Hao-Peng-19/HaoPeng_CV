@@ -37,7 +37,9 @@ Oct.2024 - Present
 ```
 Major: Computer Science
 
-Degree: Master of science
+Degree: Master of science. 
+
+- Project Lab Multimodal Artificial Intelligence: Currently in progress with Image-region to Audio
 
 
 
@@ -51,17 +53,20 @@ Major: Computer Science and Technology
 
 Degree: Bachelor of Engineering
 
+- Dissertation for bachelor's degree:  Rice field weeds based on depth learning detection (Detection of weeds and comparison of results mainly using the YOLO model)
+
 - Relevant Coursework:  Fundamentals of Computer Programming(C); Object-Oriented Programming(Java); Operating System; Database technology and its application; Discrete Mathematics .
-- dissertation for bachelor's degree:  Rice field weeds based on in-depth learning Detection (Detection of weeds and comparison of results mainly using the YOLO model)
+
+  
 
 **Language:**
 
 - English: IELTS: 7.0
-- German: B1
+- German: 552 class hours
 
 ## Experiences
 
-### **1. Internship in nstitute of Automation, Chinese Academy of Sciences  `Jul. 23 – Oct. 23`**
+### **1. Internship in Institute of Automation, Chinese Academy of Sciences  `Jul. 23 – Oct. 23`**
 * Digital image processing (measurement of object size, lane detection)
 * Fundamentals of Deep Learning (Mnist data set, neural networks)
 * Weed detection in paddies and cornfields
@@ -107,23 +112,13 @@ Python learning and learn to use basic data analysis modules and practice in app
 - Technical skill: Python, Algorithm
 - Grade: 92/100
 
-## Honors & Awards
-
-```
-Oct.2021
-Dec.2021
-```
-
-- China Undergraduate Mathematical Contest in Modelling, The Second Province Award
-- Dongxin Programming Contest, The Second-Grade Award
-
 ## Technical Skills
 
 - Programming: Python(Proficient); C++(Skilled); C/Java(Basic); Go(Understand)
+- AI: Pytorch(basic), YOLO(Basic), tensorflow(understand),
 - Web/MINAPP: Django(Proficient); SSM(Skilled); Mini-App develop(Basic)
 - Database: Mysql(Basic), Sql server(Basic)
 - Tools: Markdown(Skilled); Latex(Skilled); Github/Git(Skilled)
-- AI: Pytorch(basic), YOLO(Basic), tensorflow(understand),
 
 <!-- ### Footer
 

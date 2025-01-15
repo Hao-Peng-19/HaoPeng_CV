@@ -66,12 +66,17 @@ Degree: Bachelor of Engineering
 
 ## Experiences
 
-### **1. Internship in Institute of Automation, Chinese Academy of Sciences  `Jul. 23 – Oct. 23`**
+### **1. Project Lab Multimodal Artificial Intelligence  `Oct. 2024 – Present`**
+* The theme of our project is Image-Region2Audio Generation
+* The research is mainly based on SAM and Codi models
+* Changes are currently being made to the model to meet the requirements of the project
+
+### **2. Internship in Institute of Automation, Chinese Academy of Sciences  `Jul. 2023 – Oct. 2023`**
 * Digital image processing (measurement of object size, lane detection)
 * Fundamentals of Deep Learning (Mnist data set, neural networks)
 * Weed detection in paddies and cornfields
 
-### **2. Database Course Training  `Jul.2022 - Aug.2021`**
+### **3. Database Course Training  `Jul.2022 - Aug.2021`**
 
 Course introduction：
 
@@ -81,7 +86,7 @@ A course to complete the training task by a team of two: Small supermarket manag
 - The software needs to unify users, administrator and console through several text files.
 - Using python completely.
 
-### **3.TUBSU_Online_2022_Syllabus_Term_2_Introduction_to_Python_Programming `Jul.2022 - Aug.2021 `**
+### **4.TUBSU_Online_2022_Syllabus_Term_2_Introduction_to_Python_Programming `Jul.2021 - Aug.2021 `**
 
 Course introduction：
 
@@ -91,7 +96,7 @@ Python learning and learn to use basic data analysis modules and practice in app
 
 
 
-### **4.  Django Web Development and Maintenance In [KONGGU CAMPUS MEDIA](https://konggu.gxu.edu.cn/) `Jun.2021 - Jun.2023 `**
+### **5.  Django Web Development and Maintenance In [KONGGU CAMPUS MEDIA](https://konggu.gxu.edu.cn/) `Jun.2021 - Jun.2023 `**
 
 - Use the django framework to develop a web page for Konggu Campus Media.
 - Test and launch this Web.
@@ -99,13 +104,13 @@ Python learning and learn to use basic data analysis modules and practice in app
 - Maintenance of the web.
 - Technical skill: Python, Django, HTML, CSS, Javascript, Git, Markdown, Server
 
-### **5. Multi-view 3D intelligent imaging measurement system based on mobile terminal`Dec.2020 - Jun.2023 `**
+### **6. Multi-view 3D intelligent imaging measurement system based on mobile terminal`Dec.2020 - Jun.2023 `**
 
 - The Program is for College Student's innovation and Entrepreneurship Competition, my team still work for this. We hope to finish by senior year. 
 - I'm a member of this group and I'm mainly responsible for the mobile terminal.
 - Technical skill: Java, Algorithm, Android
 
-### **6. Principles of Artificial Intelligence (Bilingual)`Sep.2022 - Dec.2022 `**
+### **7. Principles of Artificial Intelligence (Bilingual)`Sep.2022 - Dec.2022 `**
 
 - This course is about introductory fundamentals of Artificial intelligence.
 - mainly about search problem(DFS, BFS, UCS …), bayesian neural networks, MDP and some basic knowledge

@@ -54,7 +54,7 @@ Degree: Bachelor of Engineering
 
 * Dissertation for bachelor's degree:  Rice field weeds based on depth learning detection (Detection of weeds and comparison of results mainly using the YOLO model)
 
-* Relevant Coursework:  Fundamentals of Computer Programming(C); Object-Oriented Programming(Java); Operating System; Database technology and its application; Discrete Mathematics .
+* Relevant Coursework:  Fundamentals of Computer Programming(C); Object-Oriented Programming(Java); Operating System; Database technology and its application; Discrete Mathematics.
 
   
 

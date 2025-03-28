@@ -39,6 +39,8 @@ Major: Computer Science
 
 Degree: Master of science. 
 
+- Currently pursuing a master's degree in Computer Science with a focus on visual computing, specializing in machine learning, computer vision and multimodal artificial intelligence.
+
 
 
 
@@ -52,29 +54,49 @@ Major: Computer Science and Technology
 
 Degree: Bachelor of Engineering
 
+Grade: 82
+
 - Dissertation for bachelor's degree:  Rice field weeds based on depth learning detection (Detection of weeds and comparison of results mainly using the YOLO model)
-- Relevant Coursework:  Fundamentals of Computer Programming(C); Object-Oriented Programming(Java); Operating System; Database technology and its application; Discrete Mathematics.
+- Relevant Coursework:  Computer Vision and Image Processing, Fundamental of Artificial Intelligence, Fundamentals of Computer Programming(C); Object-Oriented Programming(Java); Operating System; Database technology and its application; Discrete Mathematics.
 
-  
-
-**Language:**
-
-- English: IELTS: 7.0
-- German: 552 class hours
 
 ## Experiences
+
+### **1. Internship in Institute of Automation, Chinese Academy of Sciences  `Jul. 2023 – Oct. 2023`**
+* Digital image processing (measurement of object size, lane detection)
+* Fundamentals of Deep Learning (Mnist data set, neural networks)
+* Weed detection in paddies and cornfields
+
+Technical Skills: Python, PyTorch,  OpenCv, Labelme
+
+### **2.TUBSU_Online_2022_Syllabus_Term_2_Introduction_to_Python_Programming `Jul.2021 - Aug.2021 `**
+
+Course introduction：
+
+Python learning and learn to use basic data analysis modules and practice in applications.
+
+- Grade :1.3(German grade)/Very Good(English description)
+
+Technical Skills: Python, NumPy, Pandas
+
+### **3.  Django Web Development and Maintenance In [KONGGU CAMPUS MEDIA](https://konggu.gxu.edu.cn/) `Jun.2021 - Jun.2023 `**
+
+- Use the django framework to develop a web page for Konggu Campus Media.
+- Test and launch this Web.
+- Update and release of special topics.
+- Maintenance of the web.
+
+Technical skill: Python, Django, HTML, CSS, Javascript, Git, Markdown, Server
+
+##  Project
 
 ### **1. Project Lab Multimodal Artificial Intelligence  `Oct. 2024 – Present`**
 * The theme of our project is Image-Region2Audio Generation
 * The research is mainly based on SAM and Codi models
 * Changes are currently being made to the model to meet the requirements of the project
 
-### **2. Internship in Institute of Automation, Chinese Academy of Sciences  `Jul. 2023 – Oct. 2023`**
-* Digital image processing (measurement of object size, lane detection)
-* Fundamentals of Deep Learning (Mnist data set, neural networks)
-* Weed detection in paddies and cornfields
 
-### **3. Database Course Training  `Jul.2022 - Aug.2021`**
+### **2. Database Course Training  `Jul.2022 - Aug.2021`**
 
 Course introduction：
 
@@ -84,44 +106,30 @@ A course to complete the training task by a team of two: Small supermarket manag
 - The software needs to unify users, administrator and console through several text files.
 - Using python completely.
 
-### **4.TUBSU_Online_2022_Syllabus_Term_2_Introduction_to_Python_Programming `Jul.2021 - Aug.2021 `**
-
-Course introduction：
-
-Python learning and learn to use basic data analysis modules and practice in applications.
-
-- Grade :1.3(German grade)/Very Good(English description)
-
-
-
-### **5.  Django Web Development and Maintenance In [KONGGU CAMPUS MEDIA](https://konggu.gxu.edu.cn/) `Jun.2021 - Jun.2023 `**
-
-- Use the django framework to develop a web page for Konggu Campus Media.
-- Test and launch this Web.
-- Update and release of special topics.
-- Maintenance of the web.
-- Technical skill: Python, Django, HTML, CSS, Javascript, Git, Markdown, Server
-
-### **6. Multi-view 3D intelligent imaging measurement system based on mobile terminal`Dec.2020 - Jun.2023 `**
+### **3. Multi-view 3D intelligent imaging measurement system based on mobile terminal`Dec.2020 - Jun.2023 `**
 
 - The Program is for College Student's innovation and Entrepreneurship Competition, my team still work for this. We hope to finish by senior year. 
 - I'm a member of this group and I'm mainly responsible for the mobile terminal.
 - Technical skill: Java, Algorithm, Android
 
-### **7. Principles of Artificial Intelligence (Bilingual)`Sep.2022 - Dec.2022 `**
+## Language Skills
 
-- This course is about introductory fundamentals of Artificial intelligence.
-- mainly about search problem(DFS, BFS, UCS …), bayesian neural networks, MDP and some basic knowledge
-- Technical skill: Python, Algorithm
-- Grade: 92/100
+- English: IELTS: 7.0
+- German: B1
 
 ## Technical Skills
 
 - Programming: Python(Proficient); C++(Skilled); C/Java(Basic); Go(Understand)
-- AI: Pytorch(basic), YOLO(Basic), tensorflow(understand),
+- AI: Pytorch(basic), YOLO(Basic)
 - Web/MINAPP: Django(Proficient); SSM(Skilled); Mini-App develop(Basic)
 - Database: Mysql(Basic), Sql server(Basic)
 - Tools: Markdown(Skilled); Latex(Skilled); Github/Git(Skilled)
+
+## Other Skills
+
+- Team collaboration, Strong communication
+- Creative problem solving, Innovation-driven mindset
+- Open to feedback,Proactive attitude
 
 <!-- ### Footer
 

@@ -125,7 +125,6 @@ Technical skill: Java, Algorithm  and Android Development.
 - Web & Mini Program Development: Django, SSM (Spring + Spring MVC + MyBatis), WeChat Mini Program Development
 - Database Systems: MySQL, SQL Server
 - Tools & Platforms: Git, GitHub, Markdown, LaTeX
-
 - Collaboration & Soft Skills: Team collaboration, strong communication, creative problem solving, innovation-driven mindset, open to feedback, proactive attitude
 
 <!-- ### Footer

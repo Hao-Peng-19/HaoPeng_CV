@@ -60,10 +60,10 @@ Grade: 82
 ## Experiences
 
 ### **1. Research Assistant  `Jul. 2023 – Oct. 2023`**
-* Internship in Institute of Automation, Chinese Academy of Sciences
-* Digital image processing (measurement of object size, lane detection)
-* Fundamentals of Deep Learning (Mnist data set, neural networks)
-* Weed detection in paddies and cornfields
+- Internship in Institute of Automation, Chinese Academy of Sciences
+- Digital image processing (measurement of object size, lane detection)
+- Fundamentals of Deep Learning (Mnist data set, neural networks)
+- Weed detection in paddies and cornfields
 
 Technical Skills: Python, PyTorch,  OpenCv and Labelme
 
@@ -92,7 +92,6 @@ Technical skill: Python, Django, HTML, CSS, Javascript, Git and Markdown.
 
 ### **1. Project: Multimodal Artificial Intelligence  `Oct. 2024 – Mar. 2025`**
 - The theme of our project is Image-Region2Audio Generation
-
 - Designed a region-aware image-to-audio generation system by integrating SAM2 segmentation and CLIP features into the IM2WAV framework, achieving improved semantic alignment and perceptual audio quality.
 
 Technical skill: Multimodal learning, Foundation model usage, Model customization & fine-tuning, Computer Vision, Audio Generation,PyTorch,HuggingFace and OpenCV
@@ -102,7 +101,6 @@ Technical skill: Multimodal learning, Foundation model usage, Model customizatio
 
 - Developed a lightweight management system for a small supermarket.
 - Followed the complete software development process, including requirements gathering and documentation, designing system architecture, implementing core functionalities, testing for reliability, and delivering a user-friendly interface based on the user specification document.
-
 - Developed the frontend using the Vue.js framework and implemented the backend with a MySQL database for data storage and management.
 
 Technical skill: Java, Vue.js, JavaScript, HTML, CSS, MySQL, Git and Markdown
@@ -123,13 +121,9 @@ Technical skill: Java, Algorithm  and Android Development.
 ## Technical Skills
 
 - Programming Languages: Python, C++, C, Java, Go
-
 - AI: PyTorch, YOLO, Mutimodal AI, NLP
-
 - Web & Mini Program Development: Django, SSM (Spring + Spring MVC + MyBatis), WeChat Mini Program Development
-
 - Database Systems: MySQL, SQL Server
-
 - Tools & Platforms: Git, GitHub, Markdown, LaTeX
 
 - Collaboration & Soft Skills: Team collaboration, strong communication, creative problem solving, innovation-driven mindset, open to feedback, proactive attitude

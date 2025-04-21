@@ -91,9 +91,9 @@ Technical skill: Python, Django, HTML, CSS, Javascript, Git and Markdown.
 ##  Project
 
 ### **1. Project: Multimodal Artificial Intelligence  `Oct. 2024 – Mar. 2025`**
-* The theme of our project is Image-Region2Audio Generation
+- The theme of our project is Image-Region2Audio Generation
 
-* Designed a region-aware image-to-audio generation system by integrating SAM2 segmentation and CLIP features into the IM2WAV framework, achieving improved semantic alignment and perceptual audio quality.
+- Designed a region-aware image-to-audio generation system by integrating SAM2 segmentation and CLIP features into the IM2WAV framework, achieving improved semantic alignment and perceptual audio quality.
 
 Technical skill: Multimodal learning, Foundation model usage, Model customization & fine-tuning, Computer Vision, Audio Generation,PyTorch,HuggingFace and OpenCV
 
